@@ -1,0 +1,7 @@
+ nbObstacles || Execution Time
+------------------------------
+    10     || 0 s 11 ms
+    20     || 0 s 10 ms
+    30     || 0 s 3 ms
+    40     || 0 s 1 ms
+    50     || 0 s 1 ms
